@@ -8,7 +8,8 @@
 </head>
 <body>
     <?php 
-    echo "Asad";
+    echo "asad raza";
+    echo "nasir";
     ?>
 </body>
 </html>
